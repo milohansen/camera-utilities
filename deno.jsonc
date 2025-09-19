@@ -1,0 +1,10 @@
+{
+  "unstable": ["temporal"],
+  "imports": {
+    "@std/cli": "jsr:@std/cli@^1.0.21",
+    "@std/datetime": "jsr:@std/datetime@^0.225.3",
+    "@std/fmt": "jsr:@std/fmt@^1.0.8",
+    "@std/fs": "jsr:@std/fs@^1.0.14",
+    "@std/path": "jsr:@std/path@^1.0.8"
+  }
+}
