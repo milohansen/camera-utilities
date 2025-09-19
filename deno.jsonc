@@ -1,4 +1,7 @@
 {
+  "tasks": {
+    "import": "deno run -A import-photos.ts"
+  },
   "unstable": ["temporal"],
   "imports": {
     "@std/cli": "jsr:@std/cli@^1.0.21",
